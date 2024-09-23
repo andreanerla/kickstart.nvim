@@ -1,1 +1,0 @@
--- File: lua/custom/plugins/autopairs.lua
